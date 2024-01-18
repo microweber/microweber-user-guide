@@ -31,3 +31,4 @@
 * [How to update template](how-to-update-template.md)
 * [How to embed iframe on a page](how-to-embed-iframe-on-a-page.md)
 * [How to edit the order email](how-to-edit-the-order-email.md)
+* [How to activate and use the White label module](how-to-activate-and-use-the-white-label-module.md)
