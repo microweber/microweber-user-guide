@@ -37,3 +37,7 @@ Then click on ( save ) button&#x20;
 You can find all the created pages by going back to the admin portal&#x20;
 
 <figure><img src=".gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+
+Also, you can add new pages from the admin panel from ( website ) button as below&#x20;
+
+<figure><img src=".gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
