@@ -36,3 +36,4 @@
 * [How to add new page](how-to-add-new-page.md)
 * [How to create new Website](how-to-create-new-website.md)
 * [Can I access my domain after it's expired?](can-i-access-my-domain-after-its-expired.md)
+* [How to publish your site](how-to-publish-your-site.md)
