@@ -41,3 +41,11 @@ Then click on ( Start with this template ), You will get notified about building
 Then Congrats you have a website ready to add your articles and posts or customize to your fit
 
 <figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+
+{% content-ref url="how-to-add-new-page.md" %}
+[how-to-add-new-page.md](how-to-add-new-page.md)
+{% endcontent-ref %}
+
+For more information on how to create pages please follow the Previous link&#x20;
+
+*
