@@ -41,3 +41,10 @@ You can find all the created pages by going back to the admin portal&#x20;
 Also, you can add new pages from the admin panel from ( website ) button as below&#x20;
 
 <figure><img src=".gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+
+**For information about How to add a new product, Please click the below link**
+
+{% content-ref url="how-to-add-new-products.md" %}
+[how-to-add-new-products.md](how-to-add-new-products.md)
+{% endcontent-ref %}
+
