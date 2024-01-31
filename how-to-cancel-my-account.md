@@ -4,7 +4,7 @@ description: How to cancel my plan
 
 # How to cancel my account
 
-Login into your profile
+Login into your profile from this link [https://microweber.com](https://microweber.com/pricing)
 
 Go to Billing page
 
