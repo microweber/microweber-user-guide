@@ -46,6 +46,10 @@ Then Congrats you have a website ready to add your articles and posts or customi
 [how-to-add-new-page.md](how-to-add-new-page.md)
 {% endcontent-ref %}
 
+{% content-ref url="how-to-add-new-page.md" %}
+[how-to-add-new-page.md](how-to-add-new-page.md)
+{% endcontent-ref %}
+
 For more information on how to create pages please follow the Previous link&#x20;
 
 *
