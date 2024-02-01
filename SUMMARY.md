@@ -38,4 +38,5 @@
 * [Can I access my domain after it's expired?](can-i-access-my-domain-after-its-expired.md)
 * [How to publish your site](how-to-publish-your-site.md)
 * [How to add new Products](how-to-add-new-products.md)
-* [How to integrate](how-to-integrate.md)
+* [How to integrate calendly to your Microweber website](how-to-integrate-calendly-to-your-microweber-website.md)
+* [Page 1](page-1.md)
