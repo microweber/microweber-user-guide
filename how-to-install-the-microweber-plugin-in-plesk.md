@@ -2,6 +2,8 @@
 
 How to install the plugin&#x20;
 
+Get the latest plugin version from here [https://github.com/microweber-dev/plesk-plugin](https://github.com/microweber-dev/plesk-plugin)
+
 1\. Open Plesk Panel&#x20;
 
 2\. Go to Extensions Catalog and install "Panel.ini Editor"&#x20;
