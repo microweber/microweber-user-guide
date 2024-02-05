@@ -40,3 +40,4 @@
 * [How to add new Products](how-to-add-new-products.md)
 * [How to integrate calendly to your Microweber website](how-to-integrate-calendly-to-your-microweber-website.md)
 * [How to integrate Google analytics to your Microweber website](how-to-integrate-google-analytics-to-your-microweber-website.md)
+* [How to install the Microweber plugin in Plesk](how-to-install-the-microweber-plugin-in-plesk.md)
