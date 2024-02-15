@@ -43,3 +43,4 @@
 * [How to install the Microweber plugin in Plesk](how-to-install-the-microweber-plugin-in-plesk.md)
 * [How to add meta tags to your new MW website](how-to-add-meta-tags-to-your-new-mw-website.md)
 * [Page 1](page-1.md)
+* [Account Upgrade](account-upgrade.md)
