@@ -3,10 +3,10 @@
 Head to the **Admin** panel, then choose **Settings** from the left sidebar, you will find **Experimental settings.**\
 
 
-<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 Then choose "**Optimize asset loading**" to "**No**"\
 \
 
 
-<figure><img src=".gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>

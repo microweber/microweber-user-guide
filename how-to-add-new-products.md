@@ -12,17 +12,17 @@ So once you logged into your account admin panel, the below page should appear w
 
 Click on it and you should get the options (Products, Orders, Categories, Customers) Choose **Products**
 
-<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Once click on products, it will redirect you to the below products page as below&#x20;
 
-<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 In the previous Picture, there are sample products
 
 You can delete, create new, or edit them as it fit to your needs as below&#x20;
 
-<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 New Product: This button will add more products&#x20;
 
@@ -34,21 +34,21 @@ When choosing ( New Product ) choice, The below page will appear asking you to p
 
 &#x20;
 
-<figure><img src=".gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 2. Custom Field: Will appear as below - click on ( Add new field ) button
 
-<figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 Then a page will pop up with a variety of field choices which will be choose from as your needs&#x20;
 
-<figure><img src=".gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 3. SEO:
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 4. Advanced:
 
