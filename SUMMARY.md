@@ -46,3 +46,6 @@
 * [Adding Page](adding-page.md)
 * [Live edit - How to Edit you site](live-edit-how-to-edit-you-site.md)
 * [Live edit – Essentials, How to type text and open module settings](live-edit-essentials-how-to-type-text-and-open-module-settings.md)
+* [Live edit- how to add pictures gallery](live-edit-how-to-add-pictures-gallery.md)
+* [Live edit- how to add title and paragraph](live-edit-how-to-add-title-and-paragraph.md)
+* [Live edit - How to change module skin](live-edit-how-to-change-module-skin.md)

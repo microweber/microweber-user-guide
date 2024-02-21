@@ -18,15 +18,15 @@ In order to create a page on your newly made website, kindly follow the steps be
 
 3. &#x20;You can either choose to “**Start new Site**” or choose a Template provided on our website by accessing [https://microweber.com/projects/templates?keyword=](https://microweber.com/projects/templates?keyword=)
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;**Note**: you can always preview the templates provided then choose the best one that suits your needs.
 
 4\.      After you create your website and naming it, click “**Edit website**”
 
-<figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 5\.      A new window will open showing the layout of your newly made website, click on “**Admin**” button.
 

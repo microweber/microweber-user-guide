@@ -14,9 +14,9 @@ If you are new to our service, kindly follow the steps below:
 
 3\)     Enter your account credentials.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-4\)     After you create your website and naming it, click “Edit website”
+4\)     After you create your website and naming it, click “**Edit website**”
 
 <figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 

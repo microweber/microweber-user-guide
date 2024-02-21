@@ -8,7 +8,7 @@ Login into your profile from this link [https://microweber.com](https://microweb
 
 Go to Billing page
 
-<figure><img src=".gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 After that you will be redirected to the Stripe payment page
 
