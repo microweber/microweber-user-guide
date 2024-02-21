@@ -43,19 +43,19 @@ Then upload the zip file from the upload button
 
 
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Settings
 
 **For plugin setup**: Go to _Server management->Microweber->Settings_ and you will be able to set various options of the plugin and also connect it to WHMCS.
 
-<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Templates download and Updates
 
 **For templates setup**: Go to _Server management->Microweber->Versions_ and you will be able update the plugin and download templates
 
-<figure><img src=".gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 

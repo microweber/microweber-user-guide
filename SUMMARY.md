@@ -45,3 +45,4 @@
 * [Account Upgrade](account-upgrade.md)
 * [Adding Page](adding-page.md)
 * [Live edit - How to Edit you site](live-edit-how-to-edit-you-site.md)
+* [Live edit – Essentials, How to type text and open module settings](live-edit-essentials-how-to-type-text-and-open-module-settings.md)
