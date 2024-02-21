@@ -53,3 +53,4 @@
 * [Live edit - How to add single picture](live-edit-how-to-add-single-picture.md)
 * [Live edit - How to add contact form](live-edit-how-to-add-contact-form.md)
 * [Live edit - How to access module settings](live-edit-how-to-access-module-settings.md)
+* [Live edit-How to add button](live-edit-how-to-add-button.md)
