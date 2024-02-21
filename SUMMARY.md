@@ -44,3 +44,4 @@
 * [How to add meta tags to your new MW website](how-to-add-meta-tags-to-your-new-mw-website.md)
 * [Account Upgrade](account-upgrade.md)
 * [Adding Page](adding-page.md)
+* [Live edit - How to Edit you site](live-edit-how-to-edit-you-site.md)
