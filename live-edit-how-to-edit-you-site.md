@@ -10,9 +10,9 @@ If you are new to our service, kindly follow the steps below:
 
 2\)     Select Log In.
 
-<figure><img src=".gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
-
 3\)     Enter your account credentials.
+
+<figure><img src=".gitbook/assets/Login.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
