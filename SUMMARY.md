@@ -51,3 +51,4 @@
 * [Live edit - How to change module skin](live-edit-how-to-change-module-skin.md)
 * [Live edit - How to add video](live-edit-how-to-add-video.md)
 * [Live edit - How to add single picture](live-edit-how-to-add-single-picture.md)
+* [Live edit - How to add video](live-edit-how-to-add-video-1.md)
