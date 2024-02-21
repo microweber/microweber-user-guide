@@ -49,3 +49,4 @@
 * [Live edit- how to add pictures gallery](live-edit-how-to-add-pictures-gallery.md)
 * [Live edit- how to add title and paragraph](live-edit-how-to-add-title-and-paragraph.md)
 * [Live edit - How to change module skin](live-edit-how-to-change-module-skin.md)
+* [Live edit - How to add video](live-edit-how-to-add-video.md)
