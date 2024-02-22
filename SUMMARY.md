@@ -54,3 +54,4 @@
 * [Live edit - How to add contact form](live-edit-how-to-add-contact-form.md)
 * [Live edit - How to access module settings](live-edit-how-to-access-module-settings.md)
 * [Live edit-How to add button](live-edit-how-to-add-button.md)
+* [Live edit: How to add google maps](live-edit-how-to-add-google-maps.md)

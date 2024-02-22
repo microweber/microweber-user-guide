@@ -14,7 +14,7 @@ If you are new to our service, kindly follow the steps below:
 
 <figure><img src=".gitbook/assets/Login.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\)     After you create your website and naming it, click “**Edit website**”
 
