@@ -4,7 +4,7 @@ description: Adding a video
 
 # Live edit - How to add video
 
-Reference to Live edit- How to edit your site
+Reference to [How to edit your website](https://help.microweber.com/user-guide/live-edit-how-to-edit-you-site)
 
 • A new window will open showing the layout of your newly made website, search for a layout or bar and click on “**Settings**”.
 

@@ -4,7 +4,7 @@ description: How to access module settings
 
 # Live edit - How to access module settings
 
-Reference to Live edit- How to edit your site
+Reference to [How to edit your website](https://help.microweber.com/user-guide/live-edit-how-to-edit-you-site)
 
 • A new window will open showing the layout of your newly made website, search for a module and on the top left choose “**Settings**”.
 
