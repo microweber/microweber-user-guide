@@ -55,3 +55,5 @@
 * [Live edit - How to access module settings](live-edit-how-to-access-module-settings.md)
 * [Live edit-How to add button](live-edit-how-to-add-button.md)
 * [Live edit: How to add google maps](live-edit-how-to-add-google-maps.md)
+* [How to add pictures to post or product](how-to-add-pictures-to-post-or-product.md)
+* [How to add products with prices and custom fields](how-to-add-products-with-prices-and-custom-fields.md)

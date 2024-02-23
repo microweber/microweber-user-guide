@@ -8,7 +8,7 @@ Refrence to [How to edit your website](https://help.microweber.com/user-guide/li
 
 •  A new window will open showing the layout of your newly made website, search for a layout or block and click on “**Insert module**” by clicking on “**+**”.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 •  Type "G**oogle Maps**" on search bar then click on its icon to add.
 
