@@ -12,7 +12,7 @@ A new window will open showing the layout of your newly made website, click on �
 
 • Then from the left windows corner Click on “**Shop**”, below list will appear to click on “**Products**”.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 • Products page shall open, you can either choose templates provided in list or click on “**New Product**”.
 

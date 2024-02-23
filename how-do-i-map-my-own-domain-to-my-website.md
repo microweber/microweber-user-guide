@@ -8,4 +8,19 @@ description: You can map your custom domain to Microweber
 
 You need to change your DNS setting of your domain:
 
-Add CNAME Record with name "@" and value "web.microweberdns.com"&#x20;
+&#x20;
+
+If your domain is subdomain of `microweber.net`, you must set  name `@` and value web`.microweberdns.com`
+
+If your domain is subdomain of `microweber.page` , you must set  name `@` and value `pages.microweberdns.com`
+
+
+
+After your domain is connected, you must check the SSL settings to fix the SSL certificate&#x20;
+
+
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+
