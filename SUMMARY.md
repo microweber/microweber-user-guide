@@ -57,3 +57,4 @@
 * [Live edit: How to add google maps](live-edit-how-to-add-google-maps.md)
 * [How to add pictures to post or product](how-to-add-pictures-to-post-or-product.md)
 * [How to add products with prices and custom fields](how-to-add-products-with-prices-and-custom-fields.md)
+* [How to add post](how-to-add-post.md)
