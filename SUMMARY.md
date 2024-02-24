@@ -60,3 +60,4 @@
 * [How to add post](how-to-add-post.md)
 * [How do I earn money through the affiliate program?](how-do-i-earn-money-through-the-affiliate-program.md)
 * [Live edit - How to enter and exit preview mode](live-edit-how-to-enter-and-exit-preview-mode.md)
+* [Live edit – How to insert new module](live-edit-how-to-insert-new-module.md)
