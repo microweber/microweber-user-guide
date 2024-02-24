@@ -4,7 +4,7 @@ description: Adding a button
 
 # Live edit-How to add button
 
-Refrence to [How to edit your website](https://help.microweber.com/user-guide/live-edit-how-to-edit-you-site)
+Reference to [How to edit your website](https://help.microweber.com/user-guide/live-edit-how-to-edit-you-site)
 
 &#x20;• A new window will open showing the layout of your newly made website, choose where you want to add button and click on “**Settings**”.
 

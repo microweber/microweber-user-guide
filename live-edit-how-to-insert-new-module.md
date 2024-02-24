@@ -4,7 +4,7 @@ description: Adding a new module
 
 # Live edit – How to insert new module
 
-Refrence to [How to edit your website](https://help.microweber.com/user-guide/live-edit-how-to-edit-you-site)
+Reference to [How to edit your website](https://help.microweber.com/user-guide/live-edit-how-to-edit-you-site)
 
 • A new window will open showing the layout of your newly made website, search for a module and on the top left choose “**insert module**” by clicking on “**+**”.
 

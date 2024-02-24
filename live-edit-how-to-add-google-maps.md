@@ -4,7 +4,7 @@ description: Adding google maps module
 
 # Live edit: How to add google maps
 
-Refrence to [How to edit your website](https://help.microweber.com/user-guide/live-edit-how-to-edit-you-site)
+Reference to [How to edit your website](https://help.microweber.com/user-guide/live-edit-how-to-edit-you-site)
 
 •  A new window will open showing the layout of your newly made website, search for a layout or block and click on “**Insert module**” by clicking on “**+**”.
 
