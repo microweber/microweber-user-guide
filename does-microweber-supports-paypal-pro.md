@@ -5,7 +5,7 @@ You can activate your **PayPal Pro** from:
 Admin Panel: -> Shop -> Shop Settings -> Paypal Pro -> Settings.\
 
 
-<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

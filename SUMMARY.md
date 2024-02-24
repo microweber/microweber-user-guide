@@ -59,3 +59,4 @@
 * [How to add products with prices and custom fields](how-to-add-products-with-prices-and-custom-fields.md)
 * [How to add post](how-to-add-post.md)
 * [How do I earn money through the affiliate program?](how-do-i-earn-money-through-the-affiliate-program.md)
+* [Live edit - How to enter and exit preview mode](live-edit-how-to-enter-and-exit-preview-mode.md)

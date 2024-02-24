@@ -20,7 +20,7 @@ After your domain is connected, you must check the SSL settings to fix the SSL c
 
 
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 
 
