@@ -19,7 +19,7 @@
    *   After adding or editing the meta tags, make sure to save your changes. Look for a "Save" or "Update" button in the page editor and click on it to save your meta tag modifications.\
 
 
-       <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+       <figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 6. **Preview and Publish:**
    * Before publishing the changes, it's a good idea to preview the page to see how the meta tags will appear in search engine results. Microweber usually provides a preview option for pages.
    * Once you're satisfied with the changes, publish the page to make the updated meta tags live on your website.

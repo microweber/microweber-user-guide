@@ -8,15 +8,15 @@ Reference to [How to edit your website](https://help.microweber.com/user-guide/l
 
 • A new window will open showing the layout of your newly made website, you can always choose the pages you want to search from the top page bar.
 
-<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 • Then from the bar at the top of the page search for “**View**”, now you can view the website page as you want.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 • In order to leave the view mode, just click on the white shaded mark at the right top of page to go back to edit mode.
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Another way to enter view mode:
 
