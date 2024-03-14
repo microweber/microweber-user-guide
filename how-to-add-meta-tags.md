@@ -5,12 +5,16 @@
 2. **Navigating to the Page You Want to Edit:**
    * Once logged in, navigate to the page where you want to add or edit meta tags. You can do this by clicking on the "Pages" option in the admin panel's menu and selecting the desired page from the list.
 3. **Editing the Page:**
-   * Once you're on the page you want to edit, click on the "Edit" button or select the page and then click on the "Edit" icon.\
-     ![](<.gitbook/assets/image (71).png>)
+   *   Once you're on the page you want to edit, click on the "Edit" button or select the page and then click on the "Edit" icon.\
+
+
+       <figure><img src=".gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 4. **Adding Meta Tags:**
    * In the page editor, look for options related to meta tags. Microweber typically provides fields for adding meta title, meta description, and meta keywords.
-   * Enter your desired meta title, meta description, and meta keywords in the respective fields. Make sure to use relevant keywords and keep your meta description concise and engaging.\
-     ![](<.gitbook/assets/image (72).png>)
+   *   Enter your desired meta title, meta description, and meta keywords in the respective fields. Make sure to use relevant keywords and keep your meta description concise and engaging.\
+
+
+       <figure><img src=".gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 5. **Saving Changes:**
    * After adding or editing the meta tags, make sure to save your changes. Look for a "Save" or "Update" button in the page editor and click on it to save your meta tag modifications.
 6. **Preview and Publish:**
