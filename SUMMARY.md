@@ -63,3 +63,4 @@
 * [Live edit – How to insert new module](live-edit-how-to-insert-new-module.md)
 * [Live edit -  How do delete module](live-edit-how-do-delete-module.md)
 * [Live edit – How to delete a layout](live-edit-how-to-delete-a-layout.md)
+* [How to add meta tags](how-to-add-meta-tags.md)
