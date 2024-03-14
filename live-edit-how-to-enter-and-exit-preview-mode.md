@@ -12,7 +12,7 @@ Reference to [How to edit your website](https://help.microweber.com/user-guide/l
 
 • Then from the bar at the top of the page search for “**View**”, now you can view the website page as you want.
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 • In order to leave the view mode, just click on the white shaded mark at the right top of page to go back to edit mode.
 

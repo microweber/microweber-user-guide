@@ -14,7 +14,7 @@ In order to upgrade your account, follow the below steps:
 
 3\)     Enter your account credentials.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\)     After you Login, from your control panel Select “Upgrade”
 
