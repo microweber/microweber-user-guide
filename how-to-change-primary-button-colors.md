@@ -14,13 +14,20 @@ description: >-
    *   In the theme settings, you'll likely see a list of installed themes or templates. Choose the active theme you want to customize.\
 
 
-       <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-4. **Modifying the Button Colors:**
-   *   Once you've found the button styles, you'll see properties such as "background-color," "border-color," and "color." These properties control the button's background color, border color, and text color, respectively.\
-
-
        <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
-   * Modify the values of these properties to change the primary button colors to your desired colors. You can use hexadecimal color codes, RGB values, or color names.
+4.  **Modifying the Button Colors:**
+
+    *   Once you've found the button styles, you'll see properties such as "background-color," "border-color," and "color." These properties control the button's background color, border color, and text color, respectively.\
+
+
+        <figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    * Select the **Buttons** Section
+
+
+
+    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+    * Modify the values of these properties to change the primary button colors to your desired colors. You can use hexadecimal color codes, RGB values, or color names.
 5. **Previewing Changes:**
    * After making the changes, you can preview them to see how the primary buttons look with the new colors. Some theme settings may provide a preview option.
 6. **Saving Changes:**
