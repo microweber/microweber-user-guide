@@ -65,3 +65,4 @@
 * [Live edit – How to delete a layout](live-edit-how-to-delete-a-layout.md)
 * [How to add meta tags](how-to-add-meta-tags.md)
 * [How to change primary button colors](how-to-change-primary-button-colors.md)
+* [How to reload modules](how-to-reload-modules.md)
