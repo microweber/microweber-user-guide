@@ -7,6 +7,8 @@ In order to update manually please follow those steps
 Please save the following folders:
 
 * config
+* storage
+* database
 * userfiles/media
 * userfiles/css
 * userfiles/fonts
