@@ -67,3 +67,4 @@
 * [How to change primary button colors](how-to-change-primary-button-colors.md)
 * [How to reload modules](how-to-reload-modules.md)
 * [How to reset page content to its default state](how-to-reset-page-content-to-its-default-state.md)
+* [How to manually update Microweber](how-to-manually-update-microweber.md)
