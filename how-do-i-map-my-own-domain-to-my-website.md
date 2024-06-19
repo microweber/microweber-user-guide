@@ -14,6 +14,10 @@ If your domain is subdomain of `microweber.net`, you must set  name `@` and valu
 
 If your domain is subdomain of `microweber.page` , you must set  name `@` and value `pages.microweberdns.com`
 
+If your domain is subdomain of `microweber.me`, you must set  name `@` and value `users.microweberdns.com`
+
+
+
 
 
 After your domain is connected, you must check the SSL settings to fix the SSL certificate&#x20;
